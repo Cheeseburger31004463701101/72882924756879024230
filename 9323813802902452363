@@ -3,3 +3,4 @@ core = loadstring(game:HttpGet('https://raw.githubusercontent.com/brownfieldd00/
         if v:IsA('ClickDetector') and v.Parent:FindFirstChildOfClass('NumberValue') then
             fireclickdetector(v, 3)
             end
+end
